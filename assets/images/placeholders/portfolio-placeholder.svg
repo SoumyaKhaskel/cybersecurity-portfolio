@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio image placeholder</title>
+  <desc id="desc">A neutral parchment placeholder to replace with an approved project image.</desc>
+  <rect width="1200" height="900" fill="#E6D7BE"/>
+  <path d="M0 660 235 515l175 112 220-280 190 189 125-123 255 213v274H0Z" fill="#D7C5A8" opacity=".58"/>
+  <path d="M0 720 250 600l176 92 213-186 186 142 161-123 214 146v229H0Z" fill="#CFC1A8" opacity=".46"/>
+  <path d="M80 105h1040M80 795h1040" stroke="#B5A58A" stroke-width="2" opacity=".7"/>
+  <text x="600" y="445" text-anchor="middle" fill="#2E2A22" font-family="Arial, sans-serif" font-size="30" letter-spacing="5">IMAGE PLACEHOLDER</text>
+  <text x="600" y="492" text-anchor="middle" fill="#62594F" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">REPLACE WITH APPROVED PROJECT VISUAL</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc">
+  <title id="title">Certificate preview placeholder</title>
+  <desc id="desc">A neutral framed placeholder to replace with an approved certificate preview.</desc>
+  <rect width="1000" height="700" fill="#E6D7BE"/>
+  <rect x="54" y="54" width="892" height="592" fill="none" stroke="#B5A58A" stroke-width="3"/>
+  <rect x="75" y="75" width="850" height="550" fill="none" stroke="#CFC1A8" stroke-width="2"/>
+  <path d="M210 245h580M275 305h450M320 365h360" stroke="#B5A58A" stroke-width="3"/>
+  <text x="500" y="465" text-anchor="middle" fill="#2E2A22" font-family="Arial, sans-serif" font-size="28" letter-spacing="5">CERTIFICATE PREVIEW</text>
+  <text x="500" y="512" text-anchor="middle" fill="#62594F" font-family="Arial, sans-serif" font-size="17" letter-spacing="2">ISSUER IMAGE TO BE ADDED</text>
+</svg>

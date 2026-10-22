@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Architecture diagram placeholder</title>
+  <desc id="desc">A neutral placeholder for an approved project architecture or data-flow diagram.</desc>
+  <rect width="1200" height="800" fill="#E6D7BE"/>
+  <path d="M130 120h940M130 680h940" stroke="#B5A58A" stroke-width="2"/>
+  <g fill="#F4E8DD" stroke="#9C8A70" stroke-width="2">
+    <rect x="95" y="320" width="220" height="150"/>
+    <rect x="490" y="320" width="220" height="150"/>
+    <rect x="885" y="320" width="220" height="150"/>
+  </g>
+  <g fill="none" stroke="#6B442F" stroke-width="4">
+    <path d="M315 395h160m0 0-24-18m24 18-24 18"/>
+    <path d="M710 395h160m0 0-24-18m24 18-24 18"/>
+  </g>
+  <text x="600" y="570" text-anchor="middle" fill="#2E2A22" font-family="Arial, sans-serif" font-size="30" letter-spacing="5">DIAGRAM PLACEHOLDER</text>
+  <text x="600" y="615" text-anchor="middle" fill="#62594F" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">REPLACE WITH APPROVED PROJECT DIAGRAM</text>
+</svg>
